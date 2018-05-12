@@ -1,0 +1,45 @@
+_repo: Aeschylus-Prometheus-Bound-and-the-Seven-Against-Thebes_27458
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Buckley, Theodore Alois
+    alias: Buckley, T. A. (Theodore Alois)
+    birthdate: 1825
+    deathdate: 1856
+    gutenberg_agent_id: '25301'
+    url: http://www.gutenberg.org/2009/agents/25301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αισχύλος
+    - Αἰσχύλος
+    - Aischylos
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27458'
+  lccn: tmp92004065
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eteocles, King of Thebes (Mythological character) -- Drama'
+- !lcc 'PA'
+- !lcsh 'Prometheus (Greek deity) -- Drama'
+- !lcsh 'Seven against Thebes (Greek mythology) -- Drama'
+- !lcsh 'Polynices (Greek mythological figure) -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Thebes (Greece) -- Drama'
+title: Aeschylus' Prometheus Bound and the Seven Against Thebes
+url: http://www.gutenberg.org/ebooks/27458
